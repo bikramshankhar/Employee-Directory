@@ -3,7 +3,6 @@ import React, { Component } from "react"
 import SearchBox from "./SearchBox"
 import TableData from "./TableData"
 
-
 class Container extends Component {
     state = {
         search: "",
